@@ -4,9 +4,9 @@ Para isso, utilizei os conceitos de componente, juntamente com injetáveis, cons
 
 Linguagens usadas
 
-TypeScript e JavaScript, uma para forma de escrita e outra como forma de leitura, ambas usadas no framework do Angular
-Bootstrap, sendo um framework de CSS
-HTML
-FontAwesome, com a finalidade de estilizar ícones
+- TypeScript e JavaScript, uma para forma de escrita e outra como forma de leitura, ambas usadas no framework do Angular
+- Bootstrap, sendo um framework de CSS
+- HTML
+- FontAwesome, com a finalidade de estilizar ícones
 
 ![Screenshot_3](https://user-images.githubusercontent.com/106348661/181398309-07ce4e19-f091-455d-8307-db8e87043d3e.png)
