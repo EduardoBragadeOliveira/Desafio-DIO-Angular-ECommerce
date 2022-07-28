@@ -1,0 +1,14 @@
+<div class="card mt-4 shadow-sm">
+
+    <img class="bd-placeholder-img card-img-top" width="600" height="400" src='{{ "assets/images/" + eletronico.img + ".jpg"}}'>
+
+    <div class="card-body mb-2">
+        <p class="card-text">{{eletronico.name}}</p>
+        <p class="card-text">{{eletronico.category}}</p>
+        <p class="card-text">{{eletronico.quantity}}</p>
+        <p class="card-text">{{eletronico.price | currency: 'BRL'}}</p>
+
+            <button type="button" aria-label="Colocar no carrinho" class="btn btn-md btn-success"><i class="fa fa-cart-plus"></i></button>
+            <button type="button" aria-label="Descrição do produto" class="btn btn-md btn-outline-primary float-end"><i class="fa fa-plus"></i></button>
+    </div>
+</div>
