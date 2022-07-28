@@ -1,27 +1,5 @@
-# STOREFRONTANGULAR
+# Desafio da DIO para criar a página inicial de um E-Commerce usando Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+Para isso, utilizei os conceitos de componente, juntamente com injetáveis, consumação de API, criação de Sheet, uso do SheetBest e vários outros conceitos atrelados a esse projeto. Segue em anexo a planilha contendo os dados que foram consumidos na API do sheet.best (site do qual transforma o google sheet em uma rest API)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Screenshot_3](https://user-images.githubusercontent.com/106348661/181398309-07ce4e19-f091-455d-8307-db8e87043d3e.png)
